@@ -1,4 +1,4 @@
-# sharan
+# Bachelor Application
 
 A new Flutter project.
 
